@@ -26,7 +26,7 @@ You might want to create additional subscriptions for resource or billing manage
 
 ### Customize billing to meet your needs
 
-![Customize Billing](Images\4-billing-structure-overview.png)
+![Customize Billing](Images/4-billing-structure-overview.png)
 
 ## Azure support options[^4]
 

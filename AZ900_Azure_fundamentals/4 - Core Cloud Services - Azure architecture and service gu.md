@@ -10,7 +10,7 @@ A region is a geographical area on the planet containing at least one, but poten
 - Azure has more global regions than any other cloud provider
 - Special Azure regions
 
-![Regions](Images\2-regions-small.png)
+![Regions](Images/2-regions-small.png)
 
 ## Understand Geographies in Azure[^3]
 
@@ -31,7 +31,7 @@ You want to ensure your services and data are redundant so you can protect your 
 
 Availability Zones are physically separate datacenters within an Azure region.
 
-![Availability Zone](Images\4-availability-zones.png)
+![Availability Zone](Images/4-availability-zones.png)
 
 #### Supported regions**
 
@@ -62,7 +62,7 @@ Each Azure region is always paired with another region within the same geography
 
 Examples of region pairs in Azure are West US paired with East US, and SouthEast Asia paired with East Asia.
 
-![Region Pair](Images\5-region-pairs.png)
+![Region Pair](Images/5-region-pairs.png)
 
 ## Understand Service-Level Agreements for Azure[^6]
 
@@ -115,7 +115,7 @@ When combining SLAs across different service offerings, the resultant SLA is cal
 
 Consider an App Service web app that writes to Azure SQL Database. These Azure services currently have the following SLAs:
 
-![SLA Composite](images\7-sla-compositesla1.png)
+![SLA Composite](images/7-sla-compositesla1.png)
 
     99.95 percent × 99.99 percent = 99.94 percent
 
@@ -123,7 +123,7 @@ This means the combined probability of failure is higher than the individual SLA
 
 Conversely, you can improve the composite SLA by creating independent fallback paths. For example, if the SQL Database is unavailable, you can put transactions into a queue for processing at a later time.
 
-![SLA Composite fallback](images\7-sla-compositesla2.png)
+![SLA Composite fallback](images/7-sla-compositesla2.png)
 
 If the expected percentage of time for a simultaneous failure is 0.0001 × 0.001, the composite SLA for this combined path of a database or queue would be:
 

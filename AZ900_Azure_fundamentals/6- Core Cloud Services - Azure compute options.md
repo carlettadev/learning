@@ -50,7 +50,7 @@ With an availability set, you get:
 
 Your VMs are then sequentially placed across the fault and update domains. The following diagram shows an example where you have six VMs in two availability sets distributed across the two fault domains and five update domains.
 
-![Availability Sets](images\3-availability-sets.png)
+![Availability Sets](images/3-availability-sets.png)
 
 There's no cost for an availability set. You only pay for the VMs within the availability set. We highly recommend that you place each workload in an availability set to avoid having a single point of failure in your VM architecture.
 
@@ -105,7 +105,7 @@ Imagine your website backend has reached capacity but the front end and storage 
 
 You can move existing applications to containers and run them within AKS. You can control access via integration with Azure Active Directory (Azure AD) and access Service Level Agreement (SLA)–backed Azure services, such as Azure Database for MySQL for any data needs, via Open Service Broker for Azure (OSBA).
 
-![Containers](images\4-kub-migration.png)
+![Containers](images/4-kub-migration.png)
 
 ## Explore Azure App Services[^5]
 

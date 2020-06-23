@@ -26,7 +26,7 @@ The open-source project, Docker, is one of the leading platforms for managing co
 
 __Serverless computing__ lets you run application code without creating, configuring, or maintaining a server. The core idea is that your application is broken into separate functions that run when triggered by some action. This is ideal for automated tasks - for example, you can build a serverless process that automatically sends an email confirmation after a customer makes an online purchase.
 
-![Comparison](Images\2-vm-vs-container-vs-serverless.png)
+![Comparison](Images/2-vm-vs-container-vs-serverless.png)
 
 #### Storage
 
@@ -147,7 +147,7 @@ With capital expenditures, you plan your expenses at the start of a project or b
 
 Demand and growth can be unpredictable and can outpace expectation, which is a challenge for the CapEx model as shown in the following graph.
 
-![CapEx vs OpEx](Images\3c-capexvsopex.png)
+![CapEx vs OpEx](Images/3c-capexvsopex.png)
 
 OpEx is particularly appealing if the demand fluctuates or is unknown. Cloud services are often said to be agile. Cloud agility is the ability to rapidly change an IT infrastructure to adapt to the evolving needs of the business. For example, if your service peaks one month, you can scale to demand and pay a larger bill for the month. If the following month the demand drops, you can reduce the used resources and be charged less. This agility lets you manage your costs dynamically, optimizing spending as requirements change.
 
@@ -207,7 +207,7 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 
 ### Management responsibilities
 
-![comparison](Images\5-layer-diagram.png)
+![comparison](Images/5-layer-diagram.png)
 
 
 

@@ -30,7 +30,7 @@ For example, Azure provides AI and machine-learning services that can naturally 
 
 ### Azure Services
 
-![Azure Services](Images\3-azure-services.png)
+![Azure Services](Images/3-azure-services.png)
 
 Let's take a closer look at the most commonly used categories:
 
