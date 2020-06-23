@@ -115,7 +115,7 @@ When combining SLAs across different service offerings, the resultant SLA is cal
 
 Consider an App Service web app that writes to Azure SQL Database. These Azure services currently have the following SLAs:
 
-![SLA Composite](images/7-sla-compositesla1.png)
+![SLA Composite](Images/7-sla-compositesla1.png)
 
     99.95 percent × 99.99 percent = 99.94 percent
 
@@ -123,7 +123,7 @@ This means the combined probability of failure is higher than the individual SLA
 
 Conversely, you can improve the composite SLA by creating independent fallback paths. For example, if the SQL Database is unavailable, you can put transactions into a queue for processing at a later time.
 
-![SLA Composite fallback](images/7-sla-compositesla2.png)
+![SLA Composite fallback](Images/7-sla-compositesla2.png)
 
 If the expected percentage of time for a simultaneous failure is 0.0001 × 0.001, the composite SLA for this combined path of a database or queue would be:
 
