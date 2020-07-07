@@ -1,5 +1,5 @@
 # Core Cloud Services - Azure compute options
-
+[< Previous](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md)[Next >](7-Core-Cloud-Services-Azure-data-storage-options.md)
 ## Intro[^1]
 
 We can create compute resources, configure them to do the work we need, and pay only for what we use.
@@ -160,6 +160,8 @@ Azure Logic Apps are similar to Functions - both enable you to trigger logic bas
 | Monitoring        | Azure Application Insights                                            | Azure portal, Log Analytics                                                                            |
 | Management        | REST API, Visual Studio                                               | Azure portal, REST API, PowerShell, Visual Studio                                                      |
 | Execution context | Can run locally or in the cloud                                       | Runs only in the cloud.                                                                                |
+
+[< Previous](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md)[Next >](7-Core-Cloud-Services-Azure-data-storage-options.md)
 
 [^1]: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/1-introduction
 [^2]: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/2-essential-azure-compute-concepts

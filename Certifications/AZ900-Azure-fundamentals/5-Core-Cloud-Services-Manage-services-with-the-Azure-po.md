@@ -1,5 +1,7 @@
 # Core Cloud Services - Manage services with the Azure portal
 
+[< Previous](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md)[Next >](6-Core-Cloud-Services-Azure-compute-options.md)
+
 Tour the Azure portal features and services, and customize your portal.
 
 ## Intro[^1]
@@ -83,7 +85,7 @@ Microsoft offers previews of Azure features for evaluation purposes. With Azure 
 
 [https://azure.microsoft.com/updates/](https://azure.microsoft.com/updates/)
 
-
+[< Previous](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md)[Next >](6-Core-Cloud-Services-Azure-compute-options.md)
 
 [^1]: https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/1-introduction
 [^2]: https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/2-azure-management
