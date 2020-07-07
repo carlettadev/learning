@@ -1,5 +1,5 @@
-# Core Cloud Services - Azure architecture and service guarantees
-[< Previous](3-Core-Cloud-Services-Introduction-to-Azure.md)[Next >](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md)
+# 4 - Core Cloud Services - Azure architecture and service guarantees
+[< Previous](3-Core-Cloud-Services-Introduction-to-Azure.md) - [Next >](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md)
 ## Intro[^1]
 Microsoft Azure provides a reliable, redundant, energy-efficient infrastructure that spans more than 100 highly secure facilities worldwide, linked by one of the largest networks on earth. Azure allows you to gain global reach with local presence, keep your data secure and compliant with local laws, and have a reduced creatingbon footprint with Microsoft's environment-friendly datacenters.
 
@@ -149,7 +149,7 @@ Availability refers to the time that a system is functional and working. Maximiz
 
 For example: A workload that requires 99.99 percent uptime shouldn't depend upon a service with a 99.9 percent SLA.
 
-[< Previous](3-Core-Cloud-Services-Introduction-to-Azure.md)[Next >](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md)
+[< Previous](3-Core-Cloud-Services-Introduction-to-Azure.md) - [Next >](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md)
 
 [^1]: https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/1-introduction
 [^2]: https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/2-azure-datacenter-locations

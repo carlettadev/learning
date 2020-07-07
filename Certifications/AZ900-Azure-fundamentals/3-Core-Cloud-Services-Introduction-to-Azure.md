@@ -1,5 +1,5 @@
-# Core Cloud Services - Introduction to Azure
-[< Previous](2-Create-an-Azure-account.md)[Next >](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md)
+# 3 - Core Cloud Services - Introduction to Azure
+[< Previous](2-Create-an-Azure-account.md) - [Next >](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md)
 ## Intro[^1]
 
 Did you know that more than 90% of Fortune 500 companies run on the Microsoft Cloud?
@@ -98,7 +98,7 @@ az webapp start \
     --name luchipress
 ```
 
-[< Previous](2-Create-an-Azure-account.md)[Next >](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md)
+[< Previous](2-Create-an-Azure-account.md) - [Next >](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md)
 
 [^1]: https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/1-introduction
 [^2]: https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/2-what-is-azure

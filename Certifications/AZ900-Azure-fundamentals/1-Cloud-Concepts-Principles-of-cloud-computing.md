@@ -1,4 +1,4 @@
-# Cloud Concepts - Principles of cloud computing
+# 1 - Cloud Concepts - Principles of cloud computing
 [Next >](2-Create-an-Azure-account.md)
 ## Intro [^1]
 

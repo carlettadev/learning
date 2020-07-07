@@ -1,5 +1,5 @@
-# Create an Azure account
-[< Previous](1-Cloud-Concepts-Principles-of-cloud-computing.md)[Next >](3-Core-Cloud-Services-Introduction-to-Azure.md)
+# 2 - Create an Azure account
+[< Previous](1-Cloud-Concepts-Principles-of-cloud-computing.md) - [Next >](3-Core-Cloud-Services-Introduction-to-Azure.md)
 ## Intro[^1]
 
 To create and use Azure services, you need an Azure subscription. When you sign up, an Azure subscription is created for you. It allows you to build and deploy cloud-based applications, use sophisticated artificial intelligence services, and extract essential insights from your data.
@@ -50,7 +50,7 @@ You might want to create additional subscriptions for resource or billing manage
 | Azure Feedback Forums    | Read ideas and suggestions for improving Azure made by Azure users.                                    |
 | Twitter                  | Tweet @AzureSupport to get answers and support from the official Microsoft Azure Twitter channel.      |
 
-[< Previous](1-Cloud-Concepts-Principles-of-cloud-computing.md)[Next >](3-Core-Cloud-Services-Introduction-to-Azure.md)
+[< Previous](1-Cloud-Concepts-Principles-of-cloud-computing.md) - [Next >](3-Core-Cloud-Services-Introduction-to-Azure.md)
 
 [^1]: https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/1-introduction
 [^2]: https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/2-azure-accounts-and-subscriptions
