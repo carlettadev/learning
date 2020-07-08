@@ -1,5 +1,5 @@
-# 4 - Core Cloud Services - Azure architecture and service guarantees
 [< Previous](3-Core-Cloud-Services-Introduction-to-Azure.md) - [Next >](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md)
+# 4 - Core Cloud Services - Azure architecture and service guarantees
 ## Intro[^1]
 Microsoft Azure provides a reliable, redundant, energy-efficient infrastructure that spans more than 100 highly secure facilities worldwide, linked by one of the largest networks on earth. Azure allows you to gain global reach with local presence, keep your data secure and compliant with local laws, and have a reduced creatingbon footprint with Microsoft's environment-friendly datacenters.
 

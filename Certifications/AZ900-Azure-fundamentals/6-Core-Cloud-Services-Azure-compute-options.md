@@ -1,5 +1,5 @@
-# 6 - Core Cloud Services - Azure compute options
 [< Previous](5-Core-Cloud-Services-Manage-services-with-the-Azure-po.md) - [Next >](7-Core-Cloud-Services-Azure-data-storage-options.md)
+# 6 - Core Cloud Services - Azure compute options
 ## Intro[^1]
 
 We can create compute resources, configure them to do the work we need, and pay only for what we use.

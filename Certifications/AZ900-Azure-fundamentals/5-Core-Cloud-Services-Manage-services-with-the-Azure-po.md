@@ -1,6 +1,5 @@
-# 5 - Core Cloud Services - Manage services with the Azure portal
-
 [< Previous](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md) - [Next >](6-Core-Cloud-Services-Azure-compute-options.md)
+# 5 - Core Cloud Services - Manage services with the Azure portal
 
 Tour the Azure portal features and services, and customize your portal.
 

@@ -1,5 +1,5 @@
-# 1 - Cloud Concepts - Principles of cloud computing
 [Next >](2-Create-an-Azure-account.md)
+# 1 - Cloud Concepts - Principles of cloud computing
 ## Intro [^1]
 
 The process of turning on a light is hidden behind the simple act of flipping a switch. At this point, electricity becomes a utility, which has many benefits. First, you only pay for what you need. When you buy a light bulb, you don't pay your electricity provider up front for how long you could possibly use it. Instead, you pay for the amount of electricity that you actually use. Second, you don't worry about how or when power plants upgrade to the latest technology. Finally, you don't have to manage scaling the electricity. For example, as people move to your town, you can rest assured that your light will stay on.

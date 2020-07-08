@@ -1,5 +1,5 @@
-# 3 - Core Cloud Services - Introduction to Azure
 [< Previous](2-Create-an-Azure-account.md) - [Next >](4-Core-Cloud-Services-Azure-architecture-and-service-gu.md)
+# 3 - Core Cloud Services - Introduction to Azure
 ## Intro[^1]
 
 Did you know that more than 90% of Fortune 500 companies run on the Microsoft Cloud?
