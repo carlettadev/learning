@@ -1,4 +1,4 @@
-[< Previous](7-Core-Cloud-Services-Azure-data-storage-options.md) - [Next >]()
+[< Previous](7-Core-Cloud-Services-Azure-data-storage-options.md) - [Next >](9-Security-responsibility-and-trust-in-Azure.md)
 # 8 - Core Cloud Services - Azure networking options
 
 Running your app or service in the cloud requires a fast and secure network. Learn some of the Azure networking basics and how Azure networking helps improve resiliency and reduce latency.
@@ -176,7 +176,7 @@ Azure Load Balancer distributes traffic within the same region to make your serv
 Load Balancer and Traffic Manager both help make your services more resilient, but in slightly different ways. When Load Balancer detects an unresponsive VM, it directs traffic to other VMs in the pool. Traffic Manager monitors the health of your endpoints. When Traffic Manager finds an unresponsive endpoint, it directs traffic to the next closest endpoint that is responsive.
 
 
-[< Previous](7-Core-Cloud-Services-Azure-data-storage-options.md) - [Next >]()
+[< Previous](7-Core-Cloud-Services-Azure-data-storage-options.md) - [Next >](9-Security-responsibility-and-trust-in-Azure.md)
 
 [^1]: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/1-introduction
 [^2]: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/2-deploy-to-azure
