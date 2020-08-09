@@ -1,5 +1,5 @@
-[< Previous](8-Core-Cloud-Services-Azure-networking-options.md) - [Next >]()
-# Security, responsibility, and trust in Azure
+[< Previous](8-Core-Cloud-Services-Azure-networking-options.md) - [Next >](10-Apply-and-monitor-infrastructure-standards.md)
+# 9 - Security, responsibility, and trust in Azure
 
 Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.
 
@@ -221,7 +221,24 @@ Azure ATP is capable of detecting known malicious attacks and techniques, securi
 
 Azure ATP has its own portal, through which you can monitor and respond to suspicious activity. The Azure ATP portal allows you to create your Azure ATP instance, and view the data received from Azure ATP sensors. You can also use the portal to monitor, manage, and investigate threats in your network environment. You can sign in to the Azure ATP portal at https://portal.atp.azure.com . Your user accounts must be assigned to an Azure AD security group that has access to the Azure ATP portal to be able to sign in.
 
-[< Previous](8-Core-Cloud-Services-Azure-networking-options.md) - [Next >]()
+## Understand Security Considerations for Application Lifecycle Management Solutions [^10]
+
+The __Microsoft Security Development Lifecycle (SDL)__ introduces security and privacy considerations throughout all phases of the development process. It helps developers build highly secure software, address security compliance requirements, and reduce development costs. The guidance, best practices, tools, and processes in the SDL are practices used internally at Microsoft to build more secure products and services.
+
+- Provide training
+- Define security requirements
+- Define metrics and compliance reporting
+- Perform threat modeling
+- Establish design requirements
+- Define and use cryptography standards
+- Manage security risks from using third-party components
+- Use approved tools
+- Perform Static Analysis Secruity Testing
+- Perform Dynamic Analysis Security Testing
+- Perform penetration testing
+- Establish a standard incident response process
+
+[< Previous](8-Core-Cloud-Services-Azure-networking-options.md) - [Next >](10-Apply-and-monitor-infrastructure-standards.md)
 
 [^1]: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/1-introduction
 [^2]: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/2-shared-responsibility
@@ -232,3 +249,4 @@ Azure ATP has its own portal, through which you can monitor and respond to suspi
 [^7]: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/5-network-security
 [^8]: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/6-azure-information-protection
 [^9]: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/7-advanced-threat-protection
+[^10]: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/7a-microsoft-sdl
